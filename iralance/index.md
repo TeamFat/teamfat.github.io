@@ -19,6 +19,10 @@
 * [Golang标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 
+### note
+* [GO 语言简介（上）— 语法](http://coolshell.cn/articles/8460.html)
+* [GO 语言简介（下）— 特性](http://coolshell.cn/articles/8489.html)
+
 ### resource
 * [Go by Example](https://gobyexample.com/)
 * [A Tour of Go](https://github.com/golang/tour) [中文版](https://github.com/Go-zh/tour) install and then run http://127.0.0.1:3999
