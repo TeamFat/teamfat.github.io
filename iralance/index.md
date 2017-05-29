@@ -37,13 +37,13 @@
 ### project
 * [caddy-a-web-server-in-go](https://github.com/mholt/caddy)
 * [Share your terminal as a web application](https://github.com/yudai/gotty)
-* [poseidon:A search engine which can hold 100 trillion lines of log data.](https://github.com/Qihoo360/poseidon)
+* [poseidon A search engine which can hold 100 trillion lines of log data.](https://github.com/Qihoo360/poseidon)
 * [UUID package for Go](https://github.com/satori/go.uuid)
 * [goimportdot:一个帮你迅速了解 golang 项目结构的工具](https://github.com/yqylovy/goimportdot/blob/master/docs/examples-cn/goimportdot_guide.md)
 * [Golang & Electron Boilerplate For Platform Independent Desktop Applications](https://github.com/Equanox/gotron)
-* [pholcus:纯 Go 语言编写的高并发、分布式、重量级爬虫软件，支持单机、服务端、客户端三种运行模式，拥有 Web、GUI、命令行三种操作界面，功能齐全、强大](https://github.com/henrylee2cn/pholcus)
-* [Negroni:Web 中间件，方便使用 net/http](https://github.com/urfave/negroni/blob/master/translations/README_zh_cn.md)
-* [kingshard:由Go开发高性能MySQL Proxy项目，在满足基本的读写分离的功能上，致力于简化 MySQL 分库分表操作；能够让 DBA 通过 kingshard 轻松平滑地实现 MySQL 数据库扩容](https://github.com/flike/kingshard)
+* [pholcus:纯Go语言编写的高并发、分布式、重量级爬虫软件，支持单机、服务端、客户端三种运行模式，拥有 Web、GUI、命令行三种操作界面，功能齐全、强大](https://github.com/henrylee2cn/pholcus)
+* [Negroni:Web中间件，方便使用 net/http](https://github.com/urfave/negroni/blob/master/translations/README_zh_cn.md)
+* [kingshard:由Go开发高性能MySQL Proxy项目，在满足基本的读写分离的功能上，致力于简化MySQL分库分表操作；能够让DBA通过kingshard轻松平滑地实现MySQL数据库扩容](https://github.com/flike/kingshard)
 * [wukong:高度可定制的全文搜索引擎](https://github.com/huichen/wukong)
 
 
