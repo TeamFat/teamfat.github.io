@@ -4,4 +4,4 @@
 
 **201706团队学习计划** 
 
-[http://teamfat.org/plan/201606](http://teamfat.org/plan/201606)
+[http://teamfat.org/plan/201706](http://teamfat.org/plan/201706)
