@@ -1,6 +1,11 @@
 ## 大事记
-1. 2017-05-23 14时团队正式成立
-2. 2017-05-27 teamfat.org团队域名上线
-3. 2017-05-28 商讨6月计划
-4. 2017-06-11 规范豁免明细
 
+1. 2017-05-23 14时团队正式成立
+
+## 团队成员
+
+| 昵称 | Github |
+| --- | --- |
+| jay | [https://github.com/chenjiesuper](https://github.com/chenjiesuper) |
+| iralance | [https://github.com/iralance](https://github.com/iralance) |
+| jsser | [https://github.com/zhuzhenyu](https://github.com/zhuzhenyu) | 
