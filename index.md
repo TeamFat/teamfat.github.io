@@ -4,7 +4,7 @@
 
 ## 团队成员
 
-| 昵称 | Github | 
+| 昵称 | Github |
 | --- | --- |
 | jay | [https://github.com/chenjiesuper](https://github.com/chenjiesuper) |
 | iralance | [https://github.com/iralance](https://github.com/iralance) |
